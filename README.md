@@ -23,9 +23,6 @@ This project analyzes Amazon sales data using Power BI to identify customer beha
 3. Visualization of key metrics
 4. Statistical analysis of customer reviews
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Results
 - Identfied top-selling products
 - Analyzed customer review sentiments
